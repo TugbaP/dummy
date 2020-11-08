@@ -1,3 +1,4 @@
 CHANGELOG
 
 * 9-11-2020 - First commit
+* 9-11-2020 - file.txt is modified.
